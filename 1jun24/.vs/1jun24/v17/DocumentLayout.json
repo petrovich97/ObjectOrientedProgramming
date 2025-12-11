@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\OOP projects\\1jun24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\PorodicniNovcanik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:PorodicniNovcanik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\PorodicniNovcanik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:PorodicniNovcanik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\NovcanicaDinar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:NovcanicaDinar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\NovcanicaStrana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:NovcanicaStrana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\NovcanicaStrana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:NovcanicaStrana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\Novcanica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:Novcanica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\NovcanicaDinar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:NovcanicaDinar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|F:\\OOP projects\\1jun24\\Novcanica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7344626-21B9-4BFF-81FC-204C402B1117}|1jun24.vcxproj|solutionrelative:Novcanica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PorodicniNovcanik.cpp",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\PorodicniNovcanik.cpp",
+              "RelativeDocumentMoniker": "PorodicniNovcanik.cpp",
+              "ToolTip": "F:\\OOP projects\\1jun24\\PorodicniNovcanik.cpp",
+              "RelativeToolTip": "PorodicniNovcanik.cpp",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwGUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T15:08:35.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PorodicniNovcanik.h",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\PorodicniNovcanik.h",
+              "RelativeDocumentMoniker": "PorodicniNovcanik.h",
+              "ToolTip": "F:\\OOP projects\\1jun24\\PorodicniNovcanik.h",
+              "RelativeToolTip": "PorodicniNovcanik.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T08:57:55.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NovcanicaDinar.cpp",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\NovcanicaDinar.cpp",
+              "RelativeDocumentMoniker": "NovcanicaDinar.cpp",
+              "ToolTip": "F:\\OOP projects\\1jun24\\NovcanicaDinar.cpp",
+              "RelativeToolTip": "NovcanicaDinar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T09:32:59.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NovcanicaDinar.h",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\NovcanicaDinar.h",
+              "RelativeDocumentMoniker": "NovcanicaDinar.h",
+              "ToolTip": "F:\\OOP projects\\1jun24\\NovcanicaDinar.h",
+              "RelativeToolTip": "NovcanicaDinar.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T08:57:05.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NovcanicaStrana.h",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\NovcanicaStrana.h",
+              "RelativeDocumentMoniker": "NovcanicaStrana.h",
+              "ToolTip": "F:\\OOP projects\\1jun24\\NovcanicaStrana.h",
+              "RelativeToolTip": "NovcanicaStrana.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T08:57:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NovcanicaStrana.cpp",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\NovcanicaStrana.cpp",
+              "RelativeDocumentMoniker": "NovcanicaStrana.cpp",
+              "ToolTip": "F:\\OOP projects\\1jun24\\NovcanicaStrana.cpp",
+              "RelativeToolTip": "NovcanicaStrana.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T09:36:20.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Novcanica.h",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\Novcanica.h",
+              "RelativeDocumentMoniker": "Novcanica.h",
+              "ToolTip": "F:\\OOP projects\\1jun24\\Novcanica.h",
+              "RelativeToolTip": "Novcanica.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T08:56:45.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "F:\\OOP projects\\1jun24\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T08:55:36.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Novcanica.cpp",
+              "DocumentMoniker": "F:\\OOP projects\\1jun24\\Novcanica.cpp",
+              "RelativeDocumentMoniker": "Novcanica.cpp",
+              "ToolTip": "F:\\OOP projects\\1jun24\\Novcanica.cpp",
+              "RelativeToolTip": "Novcanica.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T09:30:13.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
